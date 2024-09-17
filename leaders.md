@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Davide Ariu](mailto:davide.ariu@owasp.org)
+* [Luca Piras](mailto:davide.ariu@owasp.org)
